@@ -8,9 +8,7 @@
     <artifactId>cloud-study</artifactId>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>eureka-server</module>
-        <module>eureka-client</module>
-        <module>feign</module>
+        <module>eureka</module>
     </modules>
     <packaging>pom</packaging>
 
