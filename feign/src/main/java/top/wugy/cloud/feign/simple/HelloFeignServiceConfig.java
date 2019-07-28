@@ -1,4 +1,4 @@
-package top.wugy.cloud.feign;
+package top.wugy.cloud.feign.simple;
 
 import feign.Logger;
 import org.springframework.context.annotation.Bean;

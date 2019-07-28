@@ -7,3 +7,9 @@ spring:
 logging:
   level:
     top.wugy.cloud.feign.HelloFeignService: debug
+
+feign:
+  httpclient:
+    enabled: false
+  okhttp:
+    enabled: true
