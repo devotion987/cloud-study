@@ -1,0 +1,9 @@
+server:
+  port: 8010
+spring:
+  application:
+    name: hello-feign
+
+logging:
+  level:
+    top.wugy.cloud.feign.HelloFeignService: debug
