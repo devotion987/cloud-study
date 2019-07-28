@@ -1,4 +1,4 @@
-package top.wugy.cloud.feign.provider;
+package top.wugy.cloud.feign.provider.user;
 
 public class User {
 

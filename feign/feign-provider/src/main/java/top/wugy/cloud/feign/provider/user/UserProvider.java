@@ -1,4 +1,4 @@
-package top.wugy.cloud.feign.provider;
+package top.wugy.cloud.feign.provider.user;
 
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;

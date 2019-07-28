@@ -9,10 +9,10 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
  */
 @EnableDiscoveryClient
 @SpringBootApplication
-public class ProviderApp {
+public class FeignProviderApp {
 
     public static void main(String[] args) {
-        SpringApplication.run(ProviderApp.class);
+        SpringApplication.run(FeignProviderApp.class);
     }
 
 }
